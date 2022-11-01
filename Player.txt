@@ -1,0 +1,3 @@
+Player's walk
+Player's attack
+Player's dead
